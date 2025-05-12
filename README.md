@@ -128,7 +128,7 @@ Dưới đây là hướng dẫn chi tiết, từng bước để bạn triển 
        "host":          "0.0.0.0",
        "port":          443,
        "http_port":     80,
-       "workers":       40
+       "workers":       0
      },
      "cache_config": {
        "memory_cache_size_mb": 4096,
