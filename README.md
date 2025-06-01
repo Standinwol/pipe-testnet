@@ -98,7 +98,7 @@ Dưới đây là hướng dẫn chi tiết, từng bước để bạn triển 
 2. **Tải binary**
 
    ```bash
-   wget https://download.pipe.network/static/pop-v0.3.0-linux-x64.tar.gz
+   wget https://download.pipe.network/static/pop-v0.3.1-linux-x64.tar.gz
    ```
 3. **Giải nén & set quyền**
 
